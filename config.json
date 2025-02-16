@@ -1377,6 +1377,15 @@
         "slug": "beer-song",
         "name": "Beer Song",
         "uuid": "4ae402a7-5345-429a-a6af-e95ec5b95e13",
+        "practices": [],
+        "prerequisites": [],
+        "difficulty": 3,
+        "status": "deprecated"
+      },
+      {
+        "slug": "bottle-song",
+        "name": "Bottle Song",
+        "uuid": "725bbe3a-67bb-4a46-b284-cfde2b41989e",
         "practices": [
           "switch-statements",
           "string-formatting"
